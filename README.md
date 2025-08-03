@@ -1,4 +1,3 @@
-GITHUB
 # 🎓 **Education Capstone Project: Analyzing Global Female Primary Completion Rates**
 
 **👤 Author:** ABDRAMANE MAHAMAT ADJI ZEZERTI  
